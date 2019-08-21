@@ -1,10 +1,14 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Bem-vindos ao Calidez Spa
 date: 2016-12-17T15:04:10.000Z
+description: >-
+  A vida aqui nos Estados Unidos é corrida e dificilmente conseguimos achar um
+  tempo para nós. Outro problema é o preço que também nos afasta de muitas
+  coisas que seriam benéficas para o nosso bem-estar. Por isso o Calidez é o
+  lugar perfeito para você.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/alternative-aroma-aromatherapy-161599.jpg
 tags:
   - flavor
   - tasting
