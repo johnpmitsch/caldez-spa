@@ -8,7 +8,7 @@ description: >-
   coisas que seriam benéficas para o nosso bem-estar. Por isso o Calidez é o
   lugar perfeito para você.
 featuredpost: false
-featuredimage: /img/alternative-aroma-aromatherapy-161599.jpg
+featuredimage: /img/apple-touch-icon.png
 tags:
   - flavor
   - tasting
