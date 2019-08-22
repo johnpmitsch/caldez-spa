@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Come RELAXANDO at caldez spa
-image: /img/alternative-aroma-aromatherapy-161599-1-.jpg
+image: /img/alternative-aroma-aromatherapy-161599-2-.jpg
 heading: Great coffee with a conscience
 subheading: 'Life is hectic, the answer is caldez!'
 mainpitch:
