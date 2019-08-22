@@ -7,7 +7,7 @@ description: >-
   tempo para nós. Outro problema é o preço que também nos afasta de muitas
   coisas que seriam benéficas para o nosso bem-estar. Por isso o Calidez é o
   lugar perfeito para você.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/apple-touch-icon.png
 tags:
   - flavor
