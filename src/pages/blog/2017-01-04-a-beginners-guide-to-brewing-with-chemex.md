@@ -1,29 +1,30 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: A revolução da Sauna
 date: 2017-01-04T15:04:10.000Z
+description: >-
+  Sauna de infravermelho queima até 600 calorias e vários artistas estão
+  apaixonados pelo novo tratamento
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/pool-690034_960_720.jpg
 tags:
-  - brewing
-  - chemex
+  - sauna
+  - infravermelho
+  - sauna trumbull
+  - beleza
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/women-936549_960_720.jpg "Sauna no lugar da academia? Conta com a gente! ")
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Já ouviu falar em sauna de infravermelho? Gwyneth Paltrow, Lady Gaga, Leonardo DiCaprio e Selena Gomez são alguns dos artistas que foram conquistados por ela. A sauna funciona usando luz de comprimentos de onda infravermelhos para aquecer o corpo em si, em vez de esquentar o ambiente ao redor. Ao invés de perder peso líquido, que logo será reconquistado após nos hidratarmos, o calor emitido da sauna de infravermelho penetra na pele com mais profundidade, acelera o metabolismo e ajuda o corpo a queimar entre 200 a 600 calorias em uma sessão de apenas meia hora.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+# **Quais são os benefícios da Sauna de infravermelho?**
 
-## The little secrets of Chemex brewing
+* Melhora o Sono
+* Alivia Stress e Ansiedade
+* Desintoxica - você pode perder até 600 calorias em 1 hora
+* Alivia dores musculares
+* Alivia dores nas juntas, como artrite
+* Clareia e firma a pela
+* Melhora a circulação
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+O Calidez Spa traz essa novidade a um preço super acessível! Venha experimentar o que os artistas já amam. Mande um e-mail para _**calidezspa@gmail.com**_ e mandaremos todas as informações para você! Corra, que não teremos muitos horários disponíveis!
